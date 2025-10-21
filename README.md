@@ -67,11 +67,8 @@ Executar o programa:
 Autores
 
 •
-Arthur Albertini - RM 565459
-
-•
 Kauã Veloso Lima - RM561954
-
+Arthur Albertini - RM 565459
 
 
 

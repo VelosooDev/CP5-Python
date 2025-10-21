@@ -6,8 +6,6 @@ Grupo: Arthur Albertini - RM 565459, Kauã Veloso Lima - RM561954"""
 CP5 – Python (dupla ou trio): CRUD de Arquivos
 Lista de compras com pré pagamento - Versão Média
 
-Autores: NOME1 - RM___, NOME2 - RM___
-
 Arquivos utilizados:
 - produtos.txt → lista de produtos e preços
 - conta.txt → dados da conta (nome, nasc., agência, conta, saldo, senha)
@@ -198,3 +196,4 @@ def menu():
 
 if __name__ == "__main__":
     menu()
+
